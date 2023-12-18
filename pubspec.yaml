@@ -1,0 +1,16 @@
+name: get_public_ip
+description: A dart package to get the system ip address.
+version: 1.0.0
+repository: https://github.com/rwscode/get_public_ip
+
+environment:
+  sdk: ^3.2.0
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+  http: ^1.1.2
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0

@@ -1,0 +1,1 @@
+flutter build web --verbose --web-renderer=html
