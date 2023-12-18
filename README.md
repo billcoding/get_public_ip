@@ -1,6 +1,6 @@
 # get_ip_address
 
-A dart package to get the system ip address
+A dart package to get the system public ip address.
 
 ## Getting Started
 
