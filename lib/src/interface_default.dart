@@ -1,6 +1,13 @@
 import 'package:get_public_ip/src/http.dart';
 import 'package:get_public_ip/src/interface.dart';
 
+/// The default implements `Interface`
+///
+/// ipv4 use: `https://api4.ipify.org`
+///
+/// ipv6 use: `https://api6.ipify.org`
+///
+/// ip64 use: `https://api64.ipify.org`.
 final class DefaultInterface implements Interface {
   static final String ip64Url = 'https://api64.ipify.org';
   static final String ipv4Url = 'https://api4.ipify.org';

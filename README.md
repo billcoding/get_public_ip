@@ -6,4 +6,4 @@ A dart package to get the system public ip address.
 
 Add the dependency in your `pubspec.yaml` file
 
-`get_ip_public: 1.0.0`
+`get_ip_public: ^1.0.1`
